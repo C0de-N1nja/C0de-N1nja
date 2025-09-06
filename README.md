@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Muhammad+Rehan;Aspiring+Penetration+Tester;Cybersecurity+Enthusiast;Problem+Solver+%26+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Muhammad+Rehan;Future+Penetration+Tester;Cybersecurity+Enthusiast;Problem+Solver+%26+Programmer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,9 +21,8 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
 ### 🚀 Quick Stats & Learning Roadmap
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-Level-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/CCNA-In Progress-1ABC9C?style=flat-square" />
-  <img src="https://img.shields.io/badge/RHCSA-In Progress-F39C12?style=flat-square" />
+  <img src="https://img.shields.io/badge/CCNA-In Progress-1ABC9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RHCSA-In Progress-F39C12?style=for-the-badge" />
 </p>
 
 - 🌐 <strong>CCNA:</strong> Fundamentals of network architecture, routing, and switching  
@@ -34,28 +33,26 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
 
 ### 📌 Featured Projects
 
-<table>
+<!-- Two-column layout for projects -->
+<table width="100%">
   <tr>
-    <td align="center">
-      <strong>🕵️ OSINT Recon Dashboard</strong><br/>
+    <td width="50%" valign="top" align="center">
+      <strong>🕵️ OSINT Recon Dashboard</strong><br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/><br/>
       <a href="https://github.com/C0de-N1nja/OSINT-Recon-Dashboard">
-        <img src="https://img.shields.io/badge/View%20on-GitHub-blue?style=for-the-badge&logo=github" />
-      </a><br/>
-      A full-stack web app to automate intelligence-gathering, aggregate digital footprints, and generate targeted Google Dorks.
+        <img src="https://img.shields.io/badge/View on GitHub-36BCF7?style=for-the-badge&logo=github" />
+      </a><br/><br/>
+      <p align="left">Automates intelligence-gathering by aggregating digital footprints and generating targeted Google Dorks to accelerate the reconnaissance phase.</p>
     </td>
-  </tr>
-  <tr><td height="15"></td></tr>
-  <tr>
-    <td align="center">
-      <strong>🛠️ Python Ethical Hacking Toolkit</strong><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+    <td width="50%" valign="top" align="center">
+      <strong>🛠️ Python Ethical Hacking Toolkit</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/><br/>
       <a href="https://github.com/C0de-N1nja/Ethical-Hacking-Tools">
-        <img src="https://img.shields.io/badge/View%20on-GitHub-red?style=for-the-badge&logo=github" />
-      </a><br/>
-      A personal lab of offensive security tools demonstrating practical network & system exploitation skills including ARP Network Scanner, TCP Reverse Shell, Keylogger, MAC Changer.
+        <img src="https://img.shields.io/badge/View on GitHub-36BCF7?style=for-the-badge&logo=github" />
+      </a><br/><br/>
+      <p align="left">A collection of custom-built Python tools for network exploitation, including an ARP Scanner and a TCP Reverse Shell to demonstrate post-exploitation skills.</p>
     </td>
   </tr>
 </table>
@@ -65,14 +62,14 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
 ### 🛠️ My Digital Toolbox
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
 <details>
@@ -105,35 +102,34 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
 
 ### 📊 My Activity & Progress
 
-<p align="center">
-  <a href="https://tryhackme.com/p/M.Rehan" target="_blank" style="margin:0 15px;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/M.Rehan.png" width="250" alt="TryHackMe Profile" style="border-radius:10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"/>
-  </a>
-  <a href="https://github.com/C0de-N1nja" target="_blank" style="margin:0 15px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=C0de-N1nja&show_icons=true&theme=radical&hide_border=true&count_private=true" width="250" alt="GitHub Stats" style="border-radius:10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"/>
-  </a>
-  <a href="https://github.com/C0de-N1nja" target="_blank" style="margin:0 15px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0de-N1nja&layout=compact&theme=radical&hide_border=true" width="250" alt="Top Languages" style="border-radius:10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"/>
-  </a>
-</p>
+<!-- Two-column layout for stats -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tryhackme.com/p/M.Rehan" target="_blank">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/M.Rehan.png" width="100%" alt="TryHackMe Profile"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/C0de-N1nja" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=C0de-N1nja&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" alt="GitHub Stats"/>
+      </a>
+      <a href="https://github.com/C0de-N1nja" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0de-N1nja&layout=compact&theme=radical&hide_border=true" width="100%" alt="Top Languages"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammad-rehan-rashid-188809254" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin:0 5px;"/>
-  </a>
-  <a href="https://github.com/C0de-N1nja" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin:0 5px;"/>
-  </a>
-  <a href="https://tryhackme.com/p/M.Rehan" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" style="margin:0 5px;"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=m.rehan2412@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin:0 5px;"/>
-  </a>
+  <a href="https://linkedin.com/in/muhammad-rehan-rashid-188809254" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/C0de-N1nja" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://tryhackme.com/p/M.Rehan" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+  <a href="mailto:m.rehan2412@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
