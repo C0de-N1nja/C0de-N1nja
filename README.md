@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Muhammad+Rehan;Computer+Science+%7C+Cybersecurity;Penetration+Testing+Specialist;Building+Secure+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Muhammad+Rehan;Computer+Science+Student;Cybersecurity+Enthusiast;Learning+Ethical+Hacking" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,9 +12,9 @@
 
 <div align="center">
 
-###  Final Year CS Student | Aspiring Penetration Tester | Security Enthusiast
+###  Final Year CS Student | Self-Learning Cybersecurity | Future Pentester
 
-*"To break a system, you must first understand how to build it."*
+*"Learning to secure the digital world, one vulnerability at a time."*
 
 </div>
 
@@ -24,30 +24,33 @@
 
 ### 🛡️ **About Me**
 
-- 🎓 **Computer Science Student** specializing in Cybersecurity
-- 🔒 Currently pursuing **CCNA** and **RHCSA** certifications
-- 🕵️ Active on **[TryHackMe](https://tryhackme.com/p/M.Rehan)** - mastering ethical hacking
-- 💻 Building real-world security tools and applications
-- 🌱 Always learning new offensive security techniques
+- 🎓 **Computer Science Student** passionate about Cybersecurity
+- 📚 Self-studying **CCNA** and **RHCSA** (courses, not official certs yet)
+- 🕵️ Active learner on **[TryHackMe](https://tryhackme.com/p/M.Rehan)** - practicing ethical hacking
+- 💻 Building security tools and applications for learning
+- 🌱 Constantly exploring new offensive security techniques
+- 🤝 Helping fellow students with programming and projects
 - 📫 Reach me: **m.rehan2412@gmail.com**
 
 <br><br><br>
 
 ---
 
-## 🏆 **Current Learning Path**
+## 📖 **Current Learning Journey**
 
 <div align="center">
   
-![CCNA](https://img.shields.io/badge/CCNA-In%20Progress-1ABC9C?style=for-the-badge&logo=cisco)
-![RHCSA](https://img.shields.io/badge/RHCSA-In%20Progress-EE0000?style=for-the-badge&logo=redhat)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Active-00D9FF?style=for-the-badge&logo=hackaday)
+![CCNA](https://img.shields.io/badge/CCNA%20Course-In%20Progress-1ABC9C?style=for-the-badge&logo=cisco)
+![RHCSA](https://img.shields.io/badge/RHCSA%20Course-In%20Progress-EE0000?style=for-the-badge&logo=redhat)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Learning-00D9FF?style=for-the-badge&logo=hackaday)
 
 </div>
 
+**Learning at Corvit Lahore** - Building strong networking and system administration fundamentals
+
 ---
 
-## 💼 **Featured Projects**
+## 💼 **Projects Portfolio**
 
 <div align="center">
 
@@ -56,11 +59,11 @@
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://github.com/C0de-N1nja/OSINT-Recon-Dashboard)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/C0de-N1nja/OSINT-Recon-Dashboard)
 
-**Advanced intelligence gathering platform with custom NLP capabilities**
+**University Project - Intelligence gathering platform with NLP**
 - Full-stack OSINT solution with Node.js backend
 - Custom-trained SpaCy NER model for biographical data extraction
-- Python analysis engine for data correlation and insights
-- Real-time reconnaissance with automated reporting
+- Python analysis engine for data correlation
+- Real-time reconnaissance dashboard
 
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-36BCF7?style=for-the-badge)](https://github.com/C0de-N1nja/OSINT-Recon-Dashboard)
 
@@ -70,14 +73,14 @@
 
 <div align="center">
 
-### 🛠️ **Ethical Hacking Tools**
+### 🛠️ **Ethical Hacking Toolkit**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/C0de-N1nja/Ethical-Hacking-Tools)
 
-**Professional-grade penetration testing toolkit**
+**Personal Learning Project - Penetration testing tools collection**
 - Multi-threaded network reconnaissance tools
-- Advanced persistent reverse shell with file transfer
-- Context-aware keylogger with stealth capabilities
-- Custom packet manipulation utilities
+- Reverse shell implementations (educational purpose)
+- Keylogger and packet manipulation utilities
+- Built for learning ethical hacking concepts
 
 [![View Project](https://img.shields.io/badge/🔗%20View%20Project-36BCF7?style=for-the-badge)](https://github.com/C0de-N1nja/Ethical-Hacking-Tools)
 
@@ -85,34 +88,38 @@
 
 ---
 
-## 🚀 **Other Notable Projects**
+## 🚀 **University Projects**
 
 <table>
 <tr>
 <td width="50%">
 
-**🔐 [OpenCV-Face-Recognition](https://github.com/C0de-N1nja/OpenCV-Face-Recognition)**
-- Real-time biometric identification system in C++
-- Complete ML pipeline from training to deployment
+**🔐 [OpenCV Face Recognition](https://github.com/C0de-N1nja/OpenCV-Face-Recognition)**
+- Real-time biometric identification in C++
+- Complete ML pipeline implementation
 - LBPH algorithm with 94%+ accuracy
+- *University coursework project*
 
-**🎮 [Ball-Rolling-3D](https://github.com/C0de-N1nja/Ball-Rolling-3D)**
+**🎮 [Ball Rolling 3D](https://github.com/C0de-N1nja/Ball-Rolling-3D)**
 - Unity 3D endless runner game
-- Physics-based mechanics and state management
-- Cross-platform deployment
+- Physics-based mechanics
+- Cross-platform game development
+- *Game development course project*
 
 </td>
 <td width="50%">
 
-**🤖 [Voice-Desktop-Assistant](https://github.com/C0de-N1nja/Voice-Desktop-Assistant)**
-- "Jarvis-style" AI desktop assistant
-- Cross-platform automation and API integration
-- Voice command processing and task execution
+**🤖 [Voice Desktop Assistant](https://github.com/C0de-N1nja/Voice-Desktop-Assistant)**
+- AI desktop assistant with voice commands
+- Cross-platform automation
+- API integrations and task execution
+- *AI/ML course project*
 
-**⚡ [MPI-Distributed-Computing](https://github.com/C0de-N1nja/MPI-Distributed-Computing)**
+**⚡ [MPI Distributed Computing](https://github.com/C0de-N1nja/MPI-Distributed-Computing)**
 - Distributed file transfer system in C++
 - Multi-machine network communication
 - Low-level systems programming
+- *Distributed systems course project*
 
 </td>
 </tr>
@@ -120,7 +127,7 @@
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+## 🛠️ **Tech Stack & Skills**
 
 <div align="center">
 
@@ -131,13 +138,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Cybersecurity & Tools
+### Cybersecurity Learning
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-### Frameworks & Platforms
+### Frameworks & Tools
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -146,9 +153,18 @@
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 
 </div>
+
+---
+
+## 🤝 **What I Offer**
+
+- **Peer Learning**: Actively help university classmates with programming assignments
+- **Problem Solving**: Strong analytical skills developed through CS coursework
+- **Self-Motivation**: Learning cybersecurity independently through online platforms
+- **Team Collaboration**: Experience working on group projects and helping others
+- **Growth Mindset**: Always eager to learn new technologies and security concepts
 
 ---
 
@@ -169,13 +185,15 @@
 
 ---
 
-## 🏅 **Cybersecurity Journey**
+## 🏅 **Learning Progress**
 
 <div align="center">
   <a href="https://tryhackme.com/p/M.Rehan">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/M.Rehan.png" width="400" alt="TryHackMe Badge"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/M.Rehan.png" width="400" alt="TryHackMe Progress"/>
   </a>
 </div>
+
+*Visit my profile to see current progress and completed rooms*
 
 ---
 
@@ -198,8 +216,8 @@
 
 <div align="center">
   
-**💻 "Code. Break. Secure. Repeat." 💻**
+**💻 "Learning. Building. Securing." 💻**
 
-*Thanks for visiting my profile! Let's build something secure together.* 🚀
+*Thanks for visiting! Always open to connecting with fellow learners and sharing knowledge.* 🚀
 
 </div>
