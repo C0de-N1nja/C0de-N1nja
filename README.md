@@ -64,17 +64,17 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/C0de-N1nja/OpenCV-Face-Recognition">Biometric Recognition System (C++/OpenCV)</a></strong><br/>
+      <strong><a href="https://github.com/C0de-N1nja/OpenCV-Face-Recognition">OpenCV-Face-Recognition</a></strong><br/>
       <em>A real-time biometric identification system built in C++. Demonstrates a full machine learning workflow from data collection and model training (LBPH) to live recognition from a webcam feed.</em>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/C0de-N1nja/Voice-Desktop-Assistant">Cross-Platform Voice Assistant (Python)</a></strong><br/>
+      <strong><a href="https://github.com/C0de-N1nja/Voice-Desktop-Assistant">Voice-Desktop-Assistant</a></strong><br/>
       <em>A "Jarvis-style" desktop assistant demonstrating Python scripting, automation, and API integration for command and control. Designed with true cross-platform compatibility for Windows, macOS, and Linux.</em>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/C0de-N1nja/MPI-Distributed-Computing">Distributed File System (C++/OpenMPI)</a></strong><br/>
+      <strong><a href="https://github.com/C0de-N1nja/MPI-Distributed-Computing">MPI-Distributed-Computing</a></strong><br/>
       <em>A low-level, distributed file transfer system for Linux built in C++. This project demonstrates systems programming fundamentals and the setup of multi-machine network communication.</em>
     </td>
     <td width="50%" valign="top">
