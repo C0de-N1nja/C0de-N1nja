@@ -197,7 +197,7 @@
 
 ---
 
-## 🌍 **Connect With Me**
+## 🌍 **Let's Connect**
 
 <div align="center">
 
@@ -205,6 +205,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/C0de-N1nja)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/M.Rehan)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.rehan2412@gmail.com)
+
+![Available](https://img.shields.io/badge/Status-Available%20for%20Collaboration-brightgreen?style=for-the-badge&logo=handshake)
 
 </div>
 
