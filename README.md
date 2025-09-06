@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🛡️ **About Me**
 
@@ -50,22 +50,24 @@
 
 ---
 
-## 💼 **Projects Portfolio**
+## 💼 **Featured Projects**
 
 <div align="center">
 
 ### 🔍 **OSINT Recon Dashboard**
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://github.com/C0de-N1nja/OSINT-Recon-Dashboard)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://github.com/C0de-N1nja/OSINT-Recon-Dashboard)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/C0de-N1nja/OSINT-Recon-Dashboard)
+*University Project - Advanced Intelligence Gathering Platform*
 
-**University Project - Intelligence gathering platform with NLP**
-- Full-stack OSINT solution with Node.js backend
-- Custom-trained SpaCy NER model for biographical data extraction
-- Python analysis engine for data correlation
-- Real-time reconnaissance dashboard
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/🔗%20View%20Project-36BCF7?style=for-the-badge)](https://github.com/C0de-N1nja/OSINT-Recon-Dashboard)
+- Full-stack OSINT solution with real-time dashboard
+- Custom-trained NER model for biographical data extraction  
+- Python analysis engine for data correlation and insights
+- Automated reconnaissance with intelligent reporting
+
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/C0de-N1nja/OSINT-Recon-Dashboard)
 
 </div>
 
@@ -73,53 +75,60 @@
 
 <div align="center">
 
-### 🛠️ **Ethical Hacking Toolkit**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/C0de-N1nja/Ethical-Hacking-Tools)
+### 🛡️ **Ethical Hacking Toolkit**
+*Personal Learning Project - Security Testing Tools*
 
-**Personal Learning Project - Penetration testing tools collection**
-- Multi-threaded network reconnaissance tools
-- Reverse shell implementations (educational purpose)
-- Keylogger and packet manipulation utilities
-- Built for learning ethical hacking concepts
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Socket](https://img.shields.io/badge/Socket%20Programming-FF6B6B?style=for-the-badge&logo=socket.io&logoColor=white)
+![Threading](https://img.shields.io/badge/Multi%20Threading-4ECDC4?style=for-the-badge&logo=threading&logoColor=white)
 
-[![View Project](https://img.shields.io/badge/🔗%20View%20Project-36BCF7?style=for-the-badge)](https://github.com/C0de-N1nja/Ethical-Hacking-Tools)
+- Multi-threaded network reconnaissance and scanning tools
+- Educational reverse shell implementations with file transfer
+- Stealth keylogger and packet manipulation utilities  
+- Custom penetration testing automation scripts
+
+[![View Project](https://img.shields.io/badge/🔗%20View%20Project-00D9FF?style=for-the-badge&logo=github)](https://github.com/C0de-N1nja/Ethical-Hacking-Tools)
 
 </div>
 
 ---
 
-## 🚀 **University Projects**
+## 🚀 **Academic Projects**
 
 <table>
 <tr>
 <td width="50%">
 
-**🔐 [OpenCV Face Recognition](https://github.com/C0de-N1nja/OpenCV-Face-Recognition)**
-- Real-time biometric identification in C++
-- Complete ML pipeline implementation
-- LBPH algorithm with 94%+ accuracy
-- *University coursework project*
+**⚡ [MPI Distributed Computing](https://github.com/C0de-N1nja/MPI-Distributed-Computing)**  
+*Distributed Systems Project*
 
-**🎮 [Ball Rolling 3D](https://github.com/C0de-N1nja/Ball-Rolling-3D)**
-- Unity 3D endless runner game
-- Physics-based mechanics
-- Cross-platform game development
-- *Game development course project*
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![MPI](https://img.shields.io/badge/MPI-FF6B6B?style=flat-square&logo=openmpi&logoColor=white) ![Networking](https://img.shields.io/badge/Network%20Programming-4ECDC4?style=flat-square&logo=cisco&logoColor=white)
+
+Multi-machine file transfer system with advanced network communication protocols and distributed processing.
+
+**🔐 [OpenCV Face Recognition](https://github.com/C0de-N1nja/OpenCV-Face-Recognition)**  
+*Computer Vision Project*
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+Real-time biometric identification system with 94%+ accuracy using LBPH algorithm and complete ML pipeline.
 
 </td>
 <td width="50%">
 
-**🤖 [Voice Desktop Assistant](https://github.com/C0de-N1nja/Voice-Desktop-Assistant)**
-- AI desktop assistant with voice commands
-- Cross-platform automation
-- API integrations and task execution
-- *AI/ML course project*
+**🤖 [Voice Desktop Assistant](https://github.com/C0de-N1nja/Voice-Desktop-Assistant)**  
+*AI Integration Project*
 
-**⚡ [MPI Distributed Computing](https://github.com/C0de-N1nja/MPI-Distributed-Computing)**
-- Distributed file transfer system in C++
-- Multi-machine network communication
-- Low-level systems programming
-- *Distributed systems course project*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Speech](https://img.shields.io/badge/Speech%20Recognition-54A0FF?style=flat-square&logo=speechrecognition&logoColor=white) ![API](https://img.shields.io/badge/API%20Integration-26de81?style=flat-square&logo=api&logoColor=white)
+
+Jarvis-style AI assistant with voice commands, cross-platform automation, and intelligent task execution.
+
+**🎮 [Ball Rolling 3D](https://github.com/C0de-N1nja/Ball-Rolling-3D)**  
+*Game Development Project*
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Physics](https://img.shields.io/badge/Physics%20Engine-fd79a8?style=flat-square&logo=unity&logoColor=white)
+
+Cross-platform endless runner with advanced physics-based mechanics and sophisticated state management.
 
 </td>
 </tr>
@@ -158,21 +167,11 @@
 
 ---
 
-## 🤝 **What I Offer**
-
-- **Peer Learning**: Actively help university classmates with programming assignments
-- **Problem Solving**: Strong analytical skills developed through CS coursework
-- **Self-Motivation**: Learning cybersecurity independently through online platforms
-- **Team Collaboration**: Experience working on group projects and helping others
-- **Growth Mindset**: Always eager to learn new technologies and security concepts
-
----
-
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C0de-N1nja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0de-N1nja&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C0de-N1nja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </div>
 
 <div align="center">
