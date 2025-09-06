@@ -44,8 +44,7 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
       <a href="https://github.com/C0de-N1nja/OSINT-Recon-Dashboard">
         <img src="https://img.shields.io/badge/View on GitHub-36BCF7?style=for-the-badge&logo=github" />
       </a><br/><br/>
-      <!-- UPDATED OSINT PROJECT DESCRIPTION -->
-      <p align="left">A full-stack OSINT intelligence platform powered by a hybrid Node.js backend and a Python analysis engine. The application performs deep-profile scraping using Selenium and leverages a <strong>custom-trained SpaCy NLP model</strong> for advanced Named Entity Recognition (NER), extracting entities from biographical data.</p>
+      <p align="left">A full-stack OSINT intelligence platform powered by a hybrid Node.js backend and a Python analysis engine. The application performs deep-profile scraping using Selenium and leverages a <strong>custom-trained SpaCy NLP model</strong> for advanced Named Entity Recognition (NER).</p>
     </td>
     <td width="50%" valign="top" align="center">
       <strong>🛠️ Python Ethical Hacking Toolkit</strong><br/><br/>
@@ -53,11 +52,21 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
       <a href="https://github.com/C0de-N1nja/Ethical-Hacking-Tools">
         <img src="https://img.shields.io/badge/View on GitHub-36BCF7?style=for-the-badge&logo=github" />
       </a><br/><br/>
-      <!-- UPDATED ETHICAL HACKING PROJECT DESCRIPTION -->
       <p align="left">A curated toolkit of ethical hacking tools in Python, showcasing a progression from basic scripts to advanced utilities. Includes a <strong>persistent reverse shell</strong> with file transfer capabilities and a <strong>context-aware keylogger</strong> that tracks active windows and clipboard activity.</p>
     </td>
   </tr>
 </table>
+
+---
+
+### ✨ Additional Technical Project
+
+<p align="center">
+  <strong><a href="https://github.com/C0de-N1nja/OpenMPI">Multi-Functional MPI Toolkit in C++</a></strong>
+  <br>
+  <!-- UPDATED DESCRIPTION -->
+  <em>A low-level, distributed file transfer system for Linux built in C++ and OpenMPI. This project demonstrates systems programming fundamentals and the setup of multi-machine network communication.</em>
+</p>
 
 ---
 
@@ -79,7 +88,7 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
 <br>
 - <strong>Python</strong> (Scapy, Socket, SpaCy, Selenium)  
 - <strong>Node.js / JavaScript (ES6)</strong> (Express, EJS, JWT)
-- <strong>C / C++</strong> (Low-level programming)  
+- <strong>C / C++</strong> (Low-level programming, MPI)  
 - <strong>Bash</strong> (Automation, System scripting)  
 </details>
 
