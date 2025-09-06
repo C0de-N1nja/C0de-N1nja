@@ -78,7 +78,8 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
       <em>A low-level, distributed file transfer system for Linux built in C++. This project demonstrates systems programming fundamentals and the setup of multi-machine network communication.</em>
     </td>
     <td width="50%" valign="top">
-      <!-- This cell is intentionally left blank for future projects. -->
+      <strong><a href="https://github.com/C0de-N1nja/Ball-Rolling-3D">Ball-Rolling-3D (Unity)</a></strong><br/>
+      <em>A 3D endless runner game built with Unity and C#, demonstrating skills in object-oriented programming, physics-based system design, and managing persistent application state.</em>
     </td>
   </tr>
 </table>
@@ -88,23 +89,26 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
 ### 🛠️ My Digital Toolbox
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" title="Unity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" title="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
 </p>
 
 <details>
-<summary><strong>👨‍💻 Programming & Scripting</strong></summary>
+<summary><strong>👨‍💻 Programming & Development</strong></summary>
 <br>
-- <strong>Python</strong> (Scapy, Socket, SpaCy, Selenium, OpenCV, Pyttsx3)  
-- <strong>C / C++</strong> (Low-level programming, MPI, Systems Programming)  
-- <strong>Node.js / JavaScript (ES6)</strong> (Express, EJS, JWT)
-- <strong>Bash</strong> (Automation, System scripting)  
+- <strong>Python:</strong> Automation, Ethical Hacking Tools (Scapy, Socket), AI (SpaCy), Web Scraping (Selenium)  
+- <strong>C / C++:</strong> Systems Programming, Distributed Computing (OpenMPI), Computer Vision (OpenCV)  
+- <strong>C#:</strong> Game Development (Unity Engine), Object-Oriented Programming
+- <strong>Node.js / JavaScript (ES6):</strong> Full-Stack Web Apps (Express, EJS), Authentication (JWT)
+- <strong>Bash:</strong> Automation & System Scripting  
 </details>
 
 <details>
@@ -120,7 +124,7 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
 <br>
 - <strong>Operating Systems:</strong> Linux (Ubuntu, Kali, RHEL), Windows, macOS  
 - <strong>Databases:</strong> MongoDB (NoSQL), Mongoose
-- <strong>Distributed Computing:</strong> OpenMPI
+- <strong>Frameworks:</strong> Unity, Express.js
 - <strong>Version Control:</strong> Git & GitHub  
 </details>
 
