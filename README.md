@@ -44,7 +44,8 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
       <a href="https://github.com/C0de-N1nja/OSINT-Recon-Dashboard">
         <img src="https://img.shields.io/badge/View on GitHub-36BCF7?style=for-the-badge&logo=github" />
       </a><br/><br/>
-      <p align="left">Automates intelligence-gathering by aggregating digital footprints and generating targeted Google Dorks to accelerate the reconnaissance phase.</p>
+      <!-- UPDATED OSINT PROJECT DESCRIPTION -->
+      <p align="left">A full-stack OSINT intelligence platform powered by a hybrid Node.js backend and a Python analysis engine. The application performs deep-profile scraping using Selenium and leverages a <strong>custom-trained SpaCy NLP model</strong> for advanced Named Entity Recognition (NER), extracting entities from biographical data.</p>
     </td>
     <td width="50%" valign="top" align="center">
       <strong>🛠️ Python Ethical Hacking Toolkit</strong><br/><br/>
@@ -52,7 +53,8 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
       <a href="https://github.com/C0de-N1nja/Ethical-Hacking-Tools">
         <img src="https://img.shields.io/badge/View on GitHub-36BCF7?style=for-the-badge&logo=github" />
       </a><br/><br/>
-      <p align="left">A collection of custom-built Python tools for network exploitation, including an ARP Scanner and a TCP Reverse Shell to demonstrate post-exploitation skills.</p>
+      <!-- UPDATED ETHICAL HACKING PROJECT DESCRIPTION -->
+      <p align="left">A curated toolkit of ethical hacking tools in Python, showcasing a progression from basic scripts to advanced utilities. Includes a <strong>persistent reverse shell</strong> with file transfer capabilities and a <strong>context-aware keylogger</strong> that tracks active windows and clipboard activity.</p>
     </td>
   </tr>
 </table>
@@ -75,25 +77,25 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
 <details>
 <summary><strong>👨‍💻 Programming & Scripting</strong></summary>
 <br>
-- <strong>Python</strong> (Scapy, Socket, Requests)  
-- <strong>C / C++</strong> (Low-level programming, Performance)  
+- <strong>Python</strong> (Scapy, Socket, SpaCy, Selenium)  
+- <strong>Node.js / JavaScript (ES6)</strong> (Express, EJS, JWT)
+- <strong>C / C++</strong> (Low-level programming)  
 - <strong>Bash</strong> (Automation, System scripting)  
-- <strong>Node.js / JavaScript (ES6)</strong> (Web apps & APIs)  
 </details>
 
 <details>
 <summary><strong>🛡️ Cybersecurity & Networking</strong></summary>
 <br>
-- <strong>Methodologies:</strong> Ethical Hacking Lifecycle, OSINT  
+- <strong>Methodologies:</strong> OSINT, Ethical Hacking Lifecycle  
+- <strong>Techniques:</strong> Web Scraping, Social Engineering, Reconnaissance
 - <strong>Tools:</strong> Wireshark, Nmap, Metasploit (Basics)  
-- <strong>Concepts:</strong> Network Security, TCP/IP Suite, Routing & Switching  
 </details>
 
 <details>
 <summary><strong>⚙️ OS, Databases & Tools</strong></summary>
 <br>
 - <strong>Operating Systems:</strong> Linux (Ubuntu, Kali, RHEL), Windows  
-- <strong>Databases:</strong> MongoDB (NoSQL), Basic SQL  
+- <strong>Databases:</strong> MongoDB (NoSQL), Mongoose
 - <strong>Virtualization:</strong> VMware, VirtualBox  
 - <strong>Version Control:</strong> Git & GitHub  
 </details>
