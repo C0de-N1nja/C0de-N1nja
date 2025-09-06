@@ -40,11 +40,11 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
       <strong>🕵️ OSINT Recon Dashboard</strong><br/><br/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/><br/>
       <a href="https://github.com/C0de-N1nja/OSINT-Recon-Dashboard">
         <img src="https://img.shields.io/badge/View on GitHub-36BCF7?style=for-the-badge&logo=github" />
       </a><br/><br/>
-      <p align="left">A full-stack OSINT intelligence platform powered by a hybrid Node.js backend and a Python analysis engine. The application performs deep-profile scraping using Selenium and leverages a <strong>custom-trained SpaCy NLP model</strong> for advanced Named Entity Recognition (NER).</p>
+      <p align="left">A full-stack OSINT intelligence platform powered by a hybrid Node.js backend and a Python analysis engine. Leverages a <strong>custom-trained SpaCy NLP model</strong> for advanced Named Entity Recognition (NER) from scraped biographical data.</p>
     </td>
     <td width="50%" valign="top" align="center">
       <strong>🛠️ Python Ethical Hacking Toolkit</strong><br/><br/>
@@ -52,21 +52,36 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
       <a href="https://github.com/C0de-N1nja/Ethical-Hacking-Tools">
         <img src="https://img.shields.io/badge/View on GitHub-36BCF7?style=for-the-badge&logo=github" />
       </a><br/><br/>
-      <p align="left">A curated toolkit of ethical hacking tools in Python, showcasing a progression from basic scripts to advanced utilities. Includes a <strong>persistent reverse shell</strong> with file transfer capabilities and a <strong>context-aware keylogger</strong> that tracks active windows and clipboard activity.</p>
+      <p align="left">A curated toolkit of ethical hacking tools showcasing a progression from basic scripts to advanced utilities. Includes a <strong>persistent reverse shell</strong> with file transfer and a <strong>context-aware keylogger</strong> that tracks active windows and clipboard activity.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### ✨ Additional Technical Project
+### ✨ Other Noteworthy Projects
 
-<p align="center">
-  <strong><a href="https://github.com/C0de-N1nja/OpenMPI">Multi-Functional MPI Toolkit in C++</a></strong>
-  <br>
-  <!-- UPDATED DESCRIPTION -->
-  <em>A low-level, distributed file transfer system for Linux built in C++ and OpenMPI. This project demonstrates systems programming fundamentals and the setup of multi-machine network communication.</em>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/C0de-N1nja/OpenCV-Face-Recognition">Biometric Recognition System (C++/OpenCV)</a></strong><br/>
+      <em>A real-time biometric identification system built in C++. Demonstrates a full machine learning workflow from data collection and model training (LBPH) to live recognition from a webcam feed.</em>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/C0de-N1nja/Voice-Desktop-Assistant">Cross-Platform Voice Assistant (Python)</a></strong><br/>
+      <em>A "Jarvis-style" desktop assistant demonstrating Python scripting, automation, and API integration for command and control. Designed with true cross-platform compatibility for Windows, macOS, and Linux.</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/C0de-N1nja/MPI-Distributed-Computing">Distributed File System (C++/OpenMPI)</a></strong><br/>
+      <em>A low-level, distributed file transfer system for Linux built in C++. This project demonstrates systems programming fundamentals and the setup of multi-machine network communication.</em>
+    </td>
+    <td width="50%" valign="top">
+      <!-- This cell is intentionally left blank for future projects. -->
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -75,37 +90,37 @@ I'm a final-year <strong>Computer Science student</strong> passionate about offe
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
 <details>
 <summary><strong>👨‍💻 Programming & Scripting</strong></summary>
 <br>
-- <strong>Python</strong> (Scapy, Socket, SpaCy, Selenium)  
+- <strong>Python</strong> (Scapy, Socket, SpaCy, Selenium, OpenCV, Pyttsx3)  
+- <strong>C / C++</strong> (Low-level programming, MPI, Systems Programming)  
 - <strong>Node.js / JavaScript (ES6)</strong> (Express, EJS, JWT)
-- <strong>C / C++</strong> (Low-level programming, MPI)  
 - <strong>Bash</strong> (Automation, System scripting)  
 </details>
 
 <details>
-<summary><strong>🛡️ Cybersecurity & Networking</strong></summary>
+<summary><strong>🛡️ Cybersecurity & AI</strong></summary>
 <br>
 - <strong>Methodologies:</strong> OSINT, Ethical Hacking Lifecycle  
-- <strong>Techniques:</strong> Web Scraping, Social Engineering, Reconnaissance
-- <strong>Tools:</strong> Wireshark, Nmap, Metasploit (Basics)  
+- <strong>Techniques:</strong> Web Scraping, Social Engineering, Biometrics, Reconnaissance
+- <strong>AI/ML:</strong> Named Entity Recognition (NER), Computer Vision (Face Recognition)
 </details>
 
 <details>
 <summary><strong>⚙️ OS, Databases & Tools</strong></summary>
 <br>
-- <strong>Operating Systems:</strong> Linux (Ubuntu, Kali, RHEL), Windows  
+- <strong>Operating Systems:</strong> Linux (Ubuntu, Kali, RHEL), Windows, macOS  
 - <strong>Databases:</strong> MongoDB (NoSQL), Mongoose
-- <strong>Virtualization:</strong> VMware, VirtualBox  
+- <strong>Distributed Computing:</strong> OpenMPI
 - <strong>Version Control:</strong> Git & GitHub  
 </details>
 
