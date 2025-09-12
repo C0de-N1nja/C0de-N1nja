@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rehan-rashid-188809254)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.rehan2412@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/M.Rehan)
+[![Profile Views](https://komarev.com/ghpvc/?username=C0de-N1nja&style=for-the-badge&color=0e75b6&label=VISITORS)](https://github.com/C0de-N1nja)
 
 ---
 
@@ -45,8 +46,8 @@ Final year Computer Science student with a focus on cybersecurity. Currently lea
 
 ### Other Notable Projects
 - **[MPI Distributed Computing](https://github.com/C0de-N1nja/MPI-Distributed-Computing)** - Multi-machine file transfer system with distributed processing
-- **[OpenCV Face Recognition](https://github.com/C0de-N1nja/OpenCV-Face-Recognition)** - Real-time biometric identification system (94%+ accuracy)
-- **[Voice Desktop Assistant](https://github.com/C0de-N1nja/Voice-Desktop-Assistant)** - AI assistant with voice commands and automation
+- **[OpenCV Face Recognition](https://github.com/C0de-N1nja/OpenCV-Face-Recognition)** - Dynamic face identification and tracking
+- **[Voice Desktop Assistant](https://github.com/C0de-N1nja/Voice-Desktop-Assistant)** - Personal assistant for real-time voice interaction and automation
 
 ---
 
@@ -76,7 +77,7 @@ Final year Computer Science student with a focus on cybersecurity. Currently lea
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Currently Learning:** Network protocols (CCNA), Linux system administration (RHCSA), penetration testing methodologies
+**Current Learning:** CCNA (Networking), RHCSA (Linux Administration), Penetration Testing (Practical & Hands-on)
 
 ---
 
@@ -99,4 +100,5 @@ Final year Computer Science student with a focus on cybersecurity. Currently lea
 
 ---
 
-**Contact:** [m.rehan2412@gmail.com](mailto:m.rehan2412@gmail.com) | Available for cybersecurity internships and collaborative projects
+**Availability:** Available for cybersecurity internships and collaborative projects
+
