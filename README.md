@@ -11,12 +11,9 @@
 
 ## About Me
 
-Final year Computer Science student with a focus on cybersecurity. Currently learning penetration testing, network security, and system administration through hands-on practice and formal training.
+A proactive final year Computer Science student with a deep-seated passion for cybersecurity. I am actively honing my skills in penetration testing, network security, and system administration through a combination of formal training and rigorous hands-on practice. My journey includes completing numerous challenges and learning paths on platforms like TryHackMe to build practical, real-world experience.
 
-**Current Learning:**
-- CCNA & RHCSA courses at Corvit Systems, Lahore
-- Practical cybersecurity on TryHackMe platform
-- Ethical hacking methodologies and tools
+I am eager to apply my growing skills in a professional environment and contribute to building robust and secure digital solutions.
 
 **Interests:** Penetration testing, network security, digital forensics, OSINT
 
@@ -71,11 +68,11 @@ Final year Computer Science student with a focus on cybersecurity. Currently lea
 
 **Technologies & Frameworks**
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Current Learning:** CCNA (Networking), RHCSA (Linux Administration), Penetration Testing (Practical & Hands-on)
 
@@ -83,11 +80,15 @@ Final year Computer Science student with a focus on cybersecurity. Currently lea
 
 ## Learning Progress
 
-**TryHackMe Profile:** [M.Rehan](https://tryhackme.com/p/M.Rehan) - Active participation in cybersecurity challenges and learning paths
-
 **Formal Training:**
 - CCNA Course (In Progress) - Corvit Systems, Lahore
+  - Gaining proficiency in network fundamentals, IP connectivity, routing protocols, and network security
 - RHCSA Course (In Progress) - Corvit Systems, Lahore
+  - Mastering core Linux system administration, user management, shell scripting, and service configuration.
+
+**Practical Training:**
+- **TryHackMe Profile:**
+  - Actively engaged in practical labs and challenges. Key completed learning paths include the Complete Beginner and Jr Penetration Tester paths.
 
 ---
 
@@ -100,5 +101,4 @@ Final year Computer Science student with a focus on cybersecurity. Currently lea
 
 ---
 
-**Availability:** Available for cybersecurity internships and collaborative projects
-
+**Let's Connect:** I'm actively seeking cybersecurity internships and collaborative projects. If you're passionate about security or have an exciting project in mind, feel free to reach out via LinkedIn or Email.
