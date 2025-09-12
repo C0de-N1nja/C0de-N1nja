@@ -101,4 +101,4 @@ I am eager to apply my growing skills in a professional environment and contribu
 
 ---
 
-**Let's Connect:** I'm actively seeking cybersecurity internships and collaborative projects. If you're passionate about security or have an exciting project in mind, feel free to reach out via LinkedIn or Email.
+**Let's Connect:** I'm actively seeking cybersecurity internships and collaborative projects. If you're passionate about security or have an exciting project in mind, feel free to reach out via [LinkedIn](https://linkedin.com/in/muhammad-rehan-rashid-188809254) or [Email](mailto:m.rehan2412@gmail.com).
