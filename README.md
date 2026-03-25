@@ -1,25 +1,44 @@
 # Muhammad Rehan Rashid
 
-**Computer Science Student | Cybersecurity Enthusiast | Future Penetration Tester**
+**Final Year CS Student @ UCP | Blockchain & Web3 Developer | Solidity · zkSync · Ethers.js | Cybersecurity Background**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rehan-rashid-188809254)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.rehan2412@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/M.Rehan)
 [![Profile Views](https://komarev.com/ghpvc/?username=C0de-N1nja&style=for-the-badge&color=0e75b6&label=VISITORS)](https://github.com/C0de-N1nja)
 
----
-
 ## About Me
 
-A proactive final year Computer Science student with a deep-seated passion for cybersecurity. I am actively honing my skills in penetration testing, network security, and system administration through a combination of formal training and rigorous hands-on practice. My journey includes completing numerous challenges and learning paths on platforms like TryHackMe to build practical, real-world experience.
+I'm a final-year Computer Science student at the University of Central Punjab (UCP), currently transitioning into the Web3 and blockchain development space. My journey started in cybersecurity — where I built real tools, completed hands-on labs, and developed a strong foundation in how systems work and how they break.
 
-I am eager to apply my growing skills in a professional environment and contribute to building robust and secure digital solutions.
+Now I'm applying that security-first mindset to blockchain development. I'm actively mastering Solidity and smart contract engineering through Cyfrin Updraft, and building my Final Year Project — a **Blockchain-based Universal Credential Verification System** that uses SHA-256 document hashing and zkSync Layer-2 to eliminate fake degrees in Pakistan.
 
-**Interests:** Penetration testing, network security, digital forensics, OSINT
+**What I'm working on:**
+- 🔗 FYP: Blockchain Credential Verification System (Solidity · zkSync · IPFS · React.js)
+- 📖 Learning: Solidity, Foundry, smart contract security via Cyfrin Updraft
+- 🌐 Building: Full-stack dApps with Ethers.js and MetaMask integration
+
+**Open to:** Entry-level Web3 Developer roles · Freelance smart contract projects · Remote opportunities
 
 ---
 
-## Featured Projects
+## 🔗 Blockchain & Web3 — Currently Building
+
+### 🏗️ Blockchain-based Universal Credential Verification System *(FYP — In Progress)*
+**Decentralized solution to eliminate fake degrees in Pakistan**
+
+- Smart contracts written in **Solidity**, tested with **Foundry**, deployed on **zkSync Sepolia**
+- SHA-256 document hashing to create tamper-proof cryptographic fingerprints of PDF credentials
+- **Issuer Portal** — institutions upload & sign credentials via MetaMask
+- **Verifier Portal** — employers verify any degree via drag-and-drop in seconds
+- Decentralized PDF storage using **IPFS (Pinata)** — no centralized servers
+- Full-stack integration using **React.js, Node.js, and Ethers.js**
+
+*Repository will be made public as development progresses after April 2026*
+
+---
+
+## 🛡️ Cybersecurity — Previous Work
 
 ### 🔍 OSINT Recon Dashboard
 **Advanced intelligence gathering platform for cybersecurity research**
@@ -41,24 +60,36 @@ I am eager to apply my growing skills in a professional environment and contribu
 
 **[View Repository →](https://github.com/C0de-N1nja/Ethical-Hacking-Tools)**
 
-### Other Notable Projects
-- **[MPI Distributed Computing](https://github.com/C0de-N1nja/MPI-Distributed-Computing)** - Multi-machine file transfer system with distributed processing
-- **[OpenCV Face Recognition](https://github.com/C0de-N1nja/OpenCV-Face-Recognition)** - Dynamic face identification and tracking
-- **[Voice Desktop Assistant](https://github.com/C0de-N1nja/Voice-Desktop-Assistant)** - Personal assistant for real-time voice interaction and automation
+---
+
+## 📚 Other Notable Projects
+
+- **[NSCT Preparation Bank](https://github.com/C0de-N1nja/NSCT-Preparation)** — 2,170+ MCQs across 10 CS subjects for Pakistan's National Skill Competency Test
+- **[MPI Distributed Computing](https://github.com/C0de-N1nja/MPI-Distributed-Computing)** — Multi-machine file transfer system with distributed processing
+- **[OpenCV Face Recognition](https://github.com/C0de-N1nja/OpenCV-Face-Recognition)** — Dynamic face identification and tracking
+- **[Voice Desktop Assistant](https://github.com/C0de-N1nja/Voice-Desktop-Assistant)** — Personal assistant for real-time voice interaction and automation
 
 ---
 
 ## Technical Skills
 
-**Programming Languages**
+**⛓️ Blockchain & Web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![zkSync](https://img.shields.io/badge/zkSync-1E69FF?style=for-the-badge&logo=zksync&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+
+**💻 Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Cybersecurity Tools**
+**🛡️ Cybersecurity Tools**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -66,29 +97,31 @@ I am eager to apply my growing skills in a professional environment and contribu
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 
-**Technologies & Frameworks**
+**🌐 Technologies & Frameworks**
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Current Learning:** CCNA (Networking), RHCSA (Linux Administration), Penetration Testing (Practical & Hands-on)
 
 ---
 
 ## Learning Progress
 
-**Formal Training:**
-- CCNA Course (In Progress) - Corvit Systems, Lahore
-  - Gaining proficiency in network fundamentals, IP connectivity, routing protocols, and network security
-- RHCSA Course (In Progress) - Corvit Systems, Lahore
-  - Mastering core Linux system administration, user management, shell scripting, and service configuration.
+**🔗 Blockchain & Web3:**
+- **Cyfrin Updraft** (In Progress) — Solidity smart contract development, Foundry testing framework, zkSync Layer-2 deployment
+  - ✅ Completed: Blockchain Basics — Issued Jan 2026
+  - ✅ Completed: Solidity Smart Contract Development — Issued Mar 2026
 
-**Practical Training:**
-- **TryHackMe Profile:**
-  - Actively engaged in practical labs and challenges. Key completed learning paths include the Complete Beginner and Jr Penetration Tester paths.
+**🌐 Networking & Systems:**
+- **CCNA** ✅ Completed — Corvit Systems, Lahore — Issued Oct 2025
+  - Network fundamentals, IP connectivity, routing protocols, network security
+- **RHCSA** ✅ Completed — Corvit Systems, Lahore — Issued Oct 2025
+  - Linux system administration, user management, shell scripting, service configuration
+
+**🛡️ Cybersecurity (Practical):**
+- **TryHackMe** — Completed 50+ rooms including Complete Beginner and Jr Penetration Tester paths
 
 ---
 
@@ -101,4 +134,4 @@ I am eager to apply my growing skills in a professional environment and contribu
 
 ---
 
-**Let's Connect:** I'm actively seeking cybersecurity internships and collaborative projects. If you're passionate about security or have an exciting project in mind, feel free to reach out via [LinkedIn](https://linkedin.com/in/muhammad-rehan-rashid-188809254) or [Email](mailto:m.rehan2412@gmail.com).
+**Let's Connect:** I'm actively looking for entry-level Web3 Developer roles and freelance smart contract projects. If you're building something in the blockchain space or want to collaborate, reach out via [LinkedIn](https://linkedin.com/in/muhammad-rehan-rashid-188809254) or [Email](mailto:m.rehan2412@gmail.com).
