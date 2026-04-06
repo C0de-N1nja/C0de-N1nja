@@ -2,7 +2,7 @@
 
 **Final Year CS Student @ UCP | Blockchain & Web3 Developer | Solidity · zkSync · Ethers.js | Cybersecurity Background**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rehan-rashid-188809254)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rehan-rashid/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.rehan2412@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/M.Rehan)
 [![Profile Views](https://komarev.com/ghpvc/?username=C0de-N1nja&style=for-the-badge&color=0e75b6&label=VISITORS)](https://github.com/C0de-N1nja)
@@ -134,4 +134,4 @@ Now I'm applying that security-first mindset to blockchain development. I'm acti
 
 ---
 
-**Let's Connect:** I'm actively looking for entry-level Web3 Developer roles and freelance smart contract projects. If you're building something in the blockchain space or want to collaborate, reach out via [LinkedIn](https://linkedin.com/in/muhammad-rehan-rashid-188809254) or [Email](mailto:m.rehan2412@gmail.com).
+**Let's Connect:** I'm actively looking for entry-level Web3 Developer roles and freelance smart contract projects. If you're building something in the blockchain space or want to collaborate, reach out via [LinkedIn](https://www.linkedin.com/in/muhammad-rehan-rashid/) or [Email](mailto:m.rehan2412@gmail.com).
