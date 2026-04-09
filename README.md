@@ -14,11 +14,11 @@ I'm a final-year Computer Science student at the University of Central Punjab (U
 Now I'm applying that security-first mindset to blockchain development. I'm actively mastering Solidity and smart contract engineering through Cyfrin Updraft, and building my Final Year Project — a **Blockchain-based Universal Credential Verification System** that uses SHA-256 document hashing and zkSync Layer-2 to eliminate fake degrees in Pakistan.
 
 **What I'm working on:**
-- 🔗 FYP: Blockchain Credential Verification System (Solidity · zkSync · IPFS · React.js)
+- 🔗 FYP: Blockchain Credential Verification System (Solidity · zkSync · IPFS)
 - 📖 Learning: Solidity, Foundry, smart contract security via Cyfrin Updraft
 - 🌐 Building: Full-stack dApps with Ethers.js and MetaMask integration
 
-**Open to:** Entry-level Web3 Developer roles · Freelance smart contract projects · Remote opportunities
+**Open to:** Entry-level Web3 Developer roles · Remote opportunities
 
 ---
 
@@ -32,7 +32,7 @@ Now I'm applying that security-first mindset to blockchain development. I'm acti
 - **Issuer Portal** — institutions upload & sign credentials via MetaMask
 - **Verifier Portal** — employers verify any degree via drag-and-drop in seconds
 - Decentralized PDF storage using **IPFS (Pinata)** — no centralized servers
-- Full-stack integration using **React.js, Node.js, and Ethers.js**
+- Full-stack integration using **Node.js and Ethers.js**
 
 *Repository will be made public as development progresses after April 2026*
 
@@ -92,14 +92,11 @@ Now I'm applying that security-first mindset to blockchain development. I'm acti
 **🛡️ Cybersecurity Tools**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 
 **🌐 Technologies & Frameworks**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -114,11 +111,9 @@ Now I'm applying that security-first mindset to blockchain development. I'm acti
   - ✅ Completed: Blockchain Basics — Issued Jan 2026
   - ✅ Completed: Solidity Smart Contract Development — Issued Mar 2026
 
-**🌐 Networking & Systems:**
-- **CCNA** ✅ Completed — Corvit Systems, Lahore — Issued Oct 2025
-  - Network fundamentals, IP connectivity, routing protocols, network security
-- **RHCSA** ✅ Completed — Corvit Systems, Lahore — Issued Oct 2025
-  - Linux system administration, user management, shell scripting, service configuration
+**🌐 Networking & Linux:**
+- **CCNA Enterprise & Linux** ✅ Completed — Corvit Systems, Lahore — Issued Oct 2025
+  - Network fundamentals, IP connectivity, routing protocols (OSPF, EIGRP), VLANs, network security, Linux administration, shell scripting, and service configuration
 
 **🛡️ Cybersecurity (Practical):**
 - **TryHackMe** — Completed 50+ rooms including Complete Beginner and Jr Penetration Tester paths
@@ -134,4 +129,4 @@ Now I'm applying that security-first mindset to blockchain development. I'm acti
 
 ---
 
-**Let's Connect:** I'm actively looking for entry-level Web3 Developer roles and freelance smart contract projects. If you're building something in the blockchain space or want to collaborate, reach out via [LinkedIn](https://www.linkedin.com/in/muhammad-rehan-rashid/) or [Email](mailto:m.rehan2412@gmail.com).
+**Let's Connect:** I'm actively looking for entry-level Web3 Developer roles and open to collaborating on open-source blockchain projects. If you're building something in the blockchain space, reach out via [LinkedIn](https://www.linkedin.com/in/muhammad-rehan-rashid/) or [Email](mailto:m.rehan2412@gmail.com).
