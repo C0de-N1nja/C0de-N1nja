@@ -9,12 +9,12 @@
 
 ## About Me
 
-I'm a final-year Computer Science student at the University of Central Punjab (UCP), currently transitioning into the Web3 and blockchain development space. My journey started in cybersecurity — where I built real tools, completed hands-on labs, and developed a strong foundation in how systems work and how they break.
+I'm a final-year Computer Science student at the University of Central Punjab (UCP), currently transitioning into the Web3 and blockchain development space. My journey started in cybersecurity  where I built real tools, completed hands-on labs, and developed a strong foundation in how systems work and how they break.
 
-Now I'm applying that security-first mindset to blockchain development. I'm actively mastering Solidity and smart contract engineering through Cyfrin Updraft, and building my Final Year Project — a **Blockchain-based Universal Credential Verification System** that uses SHA-256 document hashing and zkSync Layer-2 to eliminate fake degrees in Pakistan.
+Now I'm applying that security-first mindset to blockchain development. I'm actively mastering Solidity and smart contract engineering through Cyfrin Updraft, and building my Final Year Project  **VerifyChain**, a Multi-Sig Governed, Merkle-Proof Universal Credential Verification System on zkSync Layer-2 to eliminate fake degree fraud in Pakistan.
 
 **What I'm working on:**
-- 🔗 FYP: Blockchain Credential Verification System (Solidity · zkSync · IPFS)
+- 🔗 FYP: VerifyChain (Solidity · zkSync · Merkle Trees · Multi-Sig · Node.js)
 - 📖 Learning: Solidity, Foundry, smart contract security via Cyfrin Updraft
 - 🌐 Building: Full-stack dApps with Ethers.js and MetaMask integration
 
@@ -22,23 +22,24 @@ Now I'm applying that security-first mindset to blockchain development. I'm acti
 
 ---
 
-## 🔗 Blockchain & Web3 — Currently Building
+## 🔗 Blockchain & Web3  Currently Building
 
-### 🏗️ Blockchain-based Universal Credential Verification System *(FYP — In Progress)*
-**Decentralized solution to eliminate fake degrees in Pakistan**
+### 🏗️ VerifyChain: Multi-Sig Governed, Merkle-Proof Universal Credential Verification System *(FYP  In Progress)*
+**Decentralized solution to eliminate fake degree fraud in Pakistan**
 
 - Smart contracts written in **Solidity**, tested with **Foundry**, deployed on **zkSync Sepolia**
-- SHA-256 document hashing to create tamper-proof cryptographic fingerprints of PDF credentials
-- **Issuer Portal** — institutions upload & sign credentials via MetaMask
-- **Verifier Portal** — employers verify any degree via drag-and-drop in seconds
-- Decentralized PDF storage using **IPFS (Pinata)** — no centralized servers
-- Full-stack integration using **Node.js and Ethers.js**
+- Merkle Tree bulk issuance  register an entire batch of credentials in a single on-chain transaction
+- Multi-Signature governance  2-of-3 board quorum required for institutional onboarding
+- **Issuer Portal**  institutions issue single or bulk credentials via MetaMask
+- **Verifier Portal**  employers verify any degree instantly by scanning a QR code, no wallet needed
+- Certificate PDF with embedded QR verification block, auto-delivered to students via email
+- Full-stack integration using **React.js, Node.js, and Ethers.js**
 
 *Repository will be made public as development progresses after April 2026*
 
 ---
 
-## 🛡️ Cybersecurity — Previous Work
+## 🛡️ Cybersecurity  Previous Work
 
 ### 🔍 OSINT Recon Dashboard
 **Advanced intelligence gathering platform for cybersecurity research**
@@ -64,10 +65,10 @@ Now I'm applying that security-first mindset to blockchain development. I'm acti
 
 ## 📚 Other Notable Projects
 
-- **[NSCT Preparation Bank](https://github.com/C0de-N1nja/NSCT-Preparation)** — 2,170+ MCQs across 10 CS subjects for Pakistan's National Skill Competency Test
-- **[MPI Distributed Computing](https://github.com/C0de-N1nja/MPI-Distributed-Computing)** — Multi-machine file transfer system with distributed processing
-- **[OpenCV Face Recognition](https://github.com/C0de-N1nja/OpenCV-Face-Recognition)** — Dynamic face identification and tracking
-- **[Voice Desktop Assistant](https://github.com/C0de-N1nja/Voice-Desktop-Assistant)** — Personal assistant for real-time voice interaction and automation
+- **[NSCT Preparation Bank](https://github.com/C0de-N1nja/NSCT-Preparation)**  2,170+ MCQs across 10 CS subjects for Pakistan's National Skill Competency Test
+- **[MPI Distributed Computing](https://github.com/C0de-N1nja/MPI-Distributed-Computing)**  Multi-machine file transfer system with distributed processing
+- **[OpenCV Face Recognition](https://github.com/C0de-N1nja/OpenCV-Face-Recognition)**  Dynamic face identification and tracking
+- **[Voice Desktop Assistant](https://github.com/C0de-N1nja/Voice-Desktop-Assistant)**  Personal assistant for real-time voice interaction and automation
 
 ---
 
@@ -107,16 +108,16 @@ Now I'm applying that security-first mindset to blockchain development. I'm acti
 ## Learning Progress
 
 **🔗 Blockchain & Web3:**
-- **Cyfrin Updraft** (In Progress) — Solidity smart contract development, Foundry testing framework, zkSync Layer-2 deployment
-  - ✅ Completed: Blockchain Basics — Issued Jan 2026
-  - ✅ Completed: Solidity Smart Contract Development — Issued Mar 2026
+- **Cyfrin Updraft** (In Progress)  Solidity smart contract development, Foundry testing framework, zkSync Layer-2 deployment
+  - ✅ Completed: Blockchain Basics  Issued Jan 2026
+  - ✅ Completed: Solidity Smart Contract Development  Issued Mar 2026
 
 **🌐 Networking & Linux:**
-- **CCNA Enterprise & Linux** ✅ Completed — Corvit Systems, Lahore — Issued Oct 2025
+- **CCNA Enterprise & Linux** ✅ Completed  Corvit Systems, Lahore  Issued Oct 2025
   - Network fundamentals, IP connectivity, routing protocols (OSPF, EIGRP), VLANs, network security, Linux administration, shell scripting, and service configuration
 
 **🛡️ Cybersecurity (Practical):**
-- **TryHackMe** — Completed 50+ rooms including Complete Beginner and Jr Penetration Tester paths
+- **TryHackMe**  Completed 50+ rooms including Complete Beginner and Jr Penetration Tester paths
 
 ---
 
