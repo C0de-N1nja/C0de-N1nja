@@ -35,7 +35,7 @@ Now I'm applying that security-first mindset to blockchain development. I'm acti
 - Certificate PDF with embedded QR verification block, auto-delivered to students via email
 - Full-stack integration using **React.js, Node.js, and Ethers.js**
 
-*Repository will be made public as development progresses after April 2026*
+**[View Repository →](https://github.com/C0de-N1nja/VerifyChain)**
 
 ---
 
