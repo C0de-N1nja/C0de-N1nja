@@ -24,16 +24,16 @@ For my Final Year Project, I worked on VerifyChain, a credential verification sy
 ## 🔧 Featured Project
 
 ### 🏗️ VerifyChain: Multi-Sig Governed, Merkle-Proof Universal Credential Verification System
-**A completed credential verification system built to address fake degree fraud in Pakistan.**
+**A completed system built to address credential fraud, covering university degrees, bootcamp certificates, and credentials from private or government institutes.**
 
 - Smart contracts written in **Solidity 0.8.20**, tested and deployed with **Foundry** on **zkSync Sepolia (Layer-2)**, with all 13/13 Foundry tests passing
 - Solidity-packed field encoding and Merkle-Proof verification evaluate credential data integrity mathematically, reducing on-chain storage to a single 32-byte root per batch
 - Merkle Tree batch issuance processes up to 1,000 credentials per batch, minimizing gas costs
 - Multi-Signature governance requires a 2-of-3 board quorum for institutional onboarding, managed through a dedicated Governance Dashboard for proposal submission and voting
 - Backend built with **Node.js** and **Express.js**, with **MongoDB** for off-chain indexing and full **Ethers.js** integration for blockchain read/write operations
-- **Issuer Portal** where institutions issue single or bulk credentials via MetaMask
-- **Verifier Portal** where employers verify any degree instantly by scanning a QR code, wallet-free and accessible from any standard mobile browser, with an average verification time of 2.8 seconds
-- Certificate PDF with embedded QR verification block, auto-delivered to students via email with retry handling and ZIP fallback
+- **Issuer Portal** where any institution, academic, bootcamp, private, or government, issues single or bulk credentials via MetaMask
+- **Verifier Portal** where employers verify any credential instantly by scanning a QR code, wallet-free and accessible from any standard mobile browser, with an average verification time of 2.8 seconds
+- Certificate PDF with embedded QR verification block, auto-delivered to recipients via email with retry handling and ZIP fallback
 
 **[Live Demo →](https://verify-chain-delta.vercel.app/)** · **[View Repository →](https://github.com/C0de-N1nja/VerifyChain)**
 
